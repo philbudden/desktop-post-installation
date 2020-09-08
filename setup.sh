@@ -23,7 +23,7 @@ apt upgrade -y
 
 # Install software:
 
-apt install -y net-tools openssh-server python3-pip git openjdk-11-jdk flatpak preload lutris
+apt install -y net-tools openssh-server python3-pip git openjdk-11-jdk ansible flatpak preload lutris
 
 apt --fix-broken install
 

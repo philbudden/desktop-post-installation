@@ -3,7 +3,7 @@
 # Configure dns server:
 
 bash -c "echo 'nameservers:
-    [8.8.8.8,8.8.4.4]' >> /etc/netplan/02-netcfg.yaml"
+    [8.8.8.8,8.8.4.4]' >> /etc/netplan/02-netcfg.yml"
 
 # Set dark theme:
 
